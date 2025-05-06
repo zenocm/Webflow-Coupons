@@ -58,6 +58,10 @@ Below are active Webflow promo codes for 2025 that can help you save on plans:
 
 Yes, Webflow offers a **free Starter plan** that acts as a trial with core features enabled. You can:
 
+<a href="https://afftrend.com/webflow">
+  <img src="https://drive.google.com/uc?export=view&id=1c_EEbVe3UwWAdKtKiXz9_c1KJ419zsRD"  alt="Webflow Free trial">
+</a>
+
 * Build up to 2 static pages
 * Use visual editor & CMS
 * Export code (with limited options)
@@ -96,6 +100,10 @@ Webflow gives developers the ability to export clean HTML, CSS, and JavaScript. 
 
 ### 4. **Responsive Web Design**
 
+<a href="https://afftrend.com/webflow">
+  <img src="https://drive.google.com/uc?export=view&id=1Em0VUHkLw4rajhVCOffxsnpCuRrNcrCS"  alt="">
+</a>
+
 Designers can create fully responsive sites using Webflow’s built-in tools. You can preview and tweak how your site looks on desktops, tablets, and smartphones. The platform supports custom breakpoints for more advanced layout control, helping ensure a flawless user experience on all devices.
 
 ### 5. **Advanced Interactions & Animations**
@@ -103,6 +111,10 @@ Designers can create fully responsive sites using Webflow’s built-in tools. Yo
 Webflow Interactions lets you create scroll-based animations, hover effects, element triggers, and page transitions — all visually. These micro-interactions help you build more engaging user experiences without needing JavaScript libraries or extra coding.
 
 ### 6. **Integrated E-commerce Functionality**
+
+<a href="https://afftrend.com/webflow">
+  <img src="https://drive.google.com/uc?export=view&id=1J9Nx4jbsSmKgNO1UMR1nRQaw0DSaaLeY"  alt="Webflow Ecommerce Functionality">
+</a>
 
 With Webflow, you can launch fully functional online stores. It supports product catalogs, custom checkout pages, coupon codes, digital or physical product support, Stripe and PayPal payments, and more. You can also customize transactional emails and manage shipping rules directly within the platform.
 
